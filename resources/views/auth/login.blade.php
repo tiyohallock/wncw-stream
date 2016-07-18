@@ -5,7 +5,7 @@
     <div class="row" style ="width:300px; margin: 0 auto;">
         <div>
 
-            <h1 class="text-center">Login</h1>
+            <h1 class="text-center">Admin Login</h1>
 
             <form method="POST" action="/login">
                 {!! csrf_field() !!}
